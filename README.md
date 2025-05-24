@@ -1,17 +1,18 @@
-<h1 align="center">Fala, eu sou o Gustavo Beitum! 👋</h1>
+<h1 align="center">Olá, eu sou o Gustavo Beitum! 👋</h1>
 
 <p align="center">
-  🚀 Desenvolvedor em formação | Realidade Virtual | Unity | Backend | Futuro Full Stack
+  🚀 Desenvolvedor em formação | Realidade Virtual | Unity + C# | XR | Meta Quest 2 | Criando Experiências Imersivas 
 </p>
 
 ---
 
 ### 🧠 Sobre mim
-- 🎯 Atualmente trabalho com desenvolvimento para **Realidade Virtual** no Hub da FEMA
+- 🎯 Atualmente trabalho com desenvolvimento para **Realidade Virtual** no Hub de Inovação da FEMA
 - 🕶️ Desenvolvendo projetos em **Unity** focados no **Meta Quest 2**, utilizando **C#**
 - 💻 Apaixonado por tecnologia, programação e criação de experiências imersivas
 - 📚 Estudando **Java** na faculdade e iniciando meus estudos em **Python**
 - 🔥 Sempre buscando aprender, evoluir e encarar novos desafios
+- 💡 Interessado em desenvolvimento XR, gamificação, simulações e ambientes 3D.
 - 🎮 Curto muito jogos, desenvolvimento e explorar novas tecnologias
 
 ---
@@ -23,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
