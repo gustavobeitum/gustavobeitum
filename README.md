@@ -1,30 +1,33 @@
 <h1 align="center">Fala, eu sou o Gustavo Beitum! 👋</h1>
 
 <p align="center">
-  🚀 Desenvolvedor em formação | Backend | APIs | Banco de Dados | Futuro Full Stack
+  🚀 Desenvolvedor em formação | Realidade Virtual | Unity | Backend | Futuro Full Stack
 </p>
 
 ---
 
 ### 🧠 Sobre mim
-- 🎯 Atualmente sou estagiário no Hub da FEM
-- 💻 Apaixonado por desenvolvimento backend e APIs
-- 📚 Estudando PHP, Laravel, C++, Unity e desenvolvimento web
-- 🔥 Sempre buscando aprender e evoluir na área da tecnologia
-- 🎮 Curto muito jogos, programação e desafios
+- 🎯 Atualmente trabalho com desenvolvimento para **Realidade Virtual** no Hub da FEMA
+- 🕶️ Desenvolvendo projetos em **Unity** focados no **Meta Quest 2**, utilizando **C#**
+- 💻 Apaixonado por tecnologia, programação e criação de experiências imersivas
+- 📚 Estudando **Java** na faculdade e iniciando meus estudos em **Python**
+- 🔥 Sempre buscando aprender, evoluir e encarar novos desafios
+- 🎮 Curto muito jogos, desenvolvimento e explorar novas tecnologias
 
 ---
 
 ### 🚀 Tecnologias & Ferramentas
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
