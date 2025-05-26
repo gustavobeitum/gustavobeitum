@@ -67,4 +67,4 @@ Os projetos em **Laravel**, **HTML**, **CSS** e **JavaScript** foram desenvolvid
 
 ---
 
-✨ **"Em constante evolução e aprendizado."**
+**Em constante evolução e aprendizado.**
