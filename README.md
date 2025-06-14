@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas Atualmente
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" height="50"/>
