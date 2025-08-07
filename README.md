@@ -10,7 +10,7 @@
 - 🎯 Atualmente trabalho com desenvolvimento para **Realidade Virtual** no Hub de Inovação da FEMA
 - 🕶️ Desenvolvendo projetos em **Unity** focados no **Meta Quest 2**, utilizando **C#**
 - 💻 Apaixonado por tecnologia, programação e criação de experiências imersivas
-- 📚 Estudando **Java** na faculdade e iniciando meus estudos em **Python**
+- 📚 Estudando **Java** na faculdade
 - 🔥 Sempre buscando aprender, evoluir e encarar novos desafios
 - 🎮 Curto muito jogos, desenvolvimento e explorar novas tecnologias
 
@@ -21,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 </p>
 
 ---
