@@ -15,17 +15,23 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🎯 Atuando no **Hub Inova da FEMA** com desenvolvimento de software
-- 📱 Construindo ecossistemas mobile com **Flutter, Dart e SQLite** (tecnologias do meu TCC)
-- 💻 APIs e back-end com **PHP (Laravel)** e **Java (Spring Boot)**
-- 🔄 Vivência prática com **Kanban** e engenharia de requisitos
-- 🔥 Sempre buscando aprender e encarar novos desafios tecnológicos
-
-<br clear="right"/>
+### 👨‍💻 Um pouco sobre mim
+<table align="center">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎯 Atuando no <b>Hub de Inovação da FEMA</b> com desenvolvimento de software.</li>
+        <li>📱 Construindo ecossistemas mobile robustos com <b>Flutter, Dart e SQLite</b>.</li>
+        <li>💻 Estruturando APIs e arquiteturas back-end com <b>PHP (Laravel)</b> e <b>Java (Spring Boot)</b>.</li>
+        <li>🔄 Vivência prática com <b>Metodologias Ágeis (Kanban)</b> e engenharia de requisitos.</li>
+        <li>🔥 Sempre buscando aprender, evoluir e encarar novos desafios tecnológicos.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
