@@ -1,9 +1,15 @@
 <div align="center">
 
-<h1>Olá, eu sou o Gustavo Beitum! 👋</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&duration=1&pause=999999&color=E6EDF3&background=0D111700&center=true&vCenter=true&width=700&height=60&lines=GUSTAVO+BEITUM" alt="name" />
+</a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Mobile;Flutter+%7C+Dart+%7C+SQLite;Laravel+%7C+Java+%7C+Spring+Boot;Transformando+ideias+em+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=13&duration=1&pause=999999&color=7D8590&background=0D111700&center=true&vCenter=true&width=700&height=30&lines=BACK-END+·+MOBILE+·+FLUTTER+·+LARAVEL+·+SPRING+BOOT" alt="subtitle" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=15&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Mobile;Flutter+%7C+Dart+%7C+SQLite;Laravel+%7C+Java+%7C+Spring+Boot;Transformando+ideias+em+código" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,27 +21,28 @@
 
 ---
 
-### 👨‍💻 Um pouco sobre mim
-<table align="center">
+### Sobre Mim
+
+<table>
   <tr>
     <td width="60%">
       <ul>
-        <li>🎯 Atuando no <b>Hub de Inovação da FEMA</b> com desenvolvimento de software.</li>
-        <li>📱 Construindo ecossistemas mobile robustos com <b>Flutter, Dart e SQLite</b>.</li>
-        <li>💻 Estruturando APIs e arquiteturas back-end com <b>PHP (Laravel)</b> e <b>Java (Spring Boot)</b>.</li>
-        <li>🔄 Vivência prática com <b>Metodologias Ágeis (Kanban)</b> e engenharia de requisitos.</li>
-        <li>🔥 Sempre buscando aprender, evoluir e encarar novos desafios tecnológicos.</li>
+        <li>Atuando no <b>Hub de Inovação da FEMA</b> com desenvolvimento de software</li>
+        <li>Construindo aplicações mobile offline-first com <b>Flutter, Dart e SQLite</b></li>
+        <li>Estruturando APIs e back-end com <b>PHP (Laravel)</b> e <b>Java (Spring Boot)</b></li>
+        <li>Vivência prática com <b>Kanban</b> e engenharia de requisitos</li>
+        <li>Sempre buscando aprender e encarar novos desafios tecnológicos</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Programming GIF" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Stack
+### Stack
 
 **Mobile & Front-end**
 
@@ -62,15 +69,33 @@
 
 ---
 
-### 💡 Inspiração
+### Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavobeitum/gustavobeitum/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavobeitum/gustavobeitum/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/gustavobeitum/gustavobeitum/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### Ouvindo Agora
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5vxaujskytfgmthnvhcmqchja&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=2196F3&bar_color_cover=true" alt="spotify now playing" />
+  </a>
+</div>
+
+---
+
+### Inspiração
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=2500&color=7D8590&center=true&vCenter=true&width=700&lines=Código+limpo+não+é+escrito+por+acaso,+é+fruto+de+disciplina.;Todo+bug+é+uma+oportunidade+de+aprender+algo+novo.;A+melhor+forma+de+prever+o+futuro+é+construí-lo.;Primeiro+faça+funcionar,+depois+faça+funcionar+bem.;Simplicidade+é+a+sofisticação+máxima+do+código.;Um+bom+desenvolvedor+nunca+para+de+ser+estudante.;Refatorar+hoje+é+poupar+horas+amanhã.;Código+é+lido+muito+mais+do+que+escrito+—+escreva+com+cuidado.;O+melhor+código+é+aquele+que+não+precisa+de+comentário+para+ser+entendido.;Cada+feature+entregue+é+um+problema+real+resolvido.;Errar+faz+parte+—+o+importante+é+commitar+a+correção.;Programar+é+transformar+lógica+em+impacto." alt="Quote" />
 </div>
 
 ---
-
-### 🌐 Conecte-se
 
 <div align="center">
 
