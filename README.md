@@ -1,78 +1,60 @@
-<h1 align="center">Olá, eu sou o Gustavo Beitum! 👋</h1>
-
-<p align="center">
-  🚀 Desenvolvedor em formação | Realidade Virtual | Unity + C# | XR | Meta Quest 2 | Criando Experiências Imersivas 
-</p>
-
----
-
-### 🧠 Sobre mim
-- 🎯 Atualmente trabalho com desenvolvimento para **Realidade Virtual** no Hub de Inovação da FEMA
-- 🕶️ Desenvolvendo projetos em **Unity** focados no **Meta Quest 2**, utilizando **C#**
-- 💻 Apaixonado por tecnologia, programação e criação de experiências imersivas
-- 📚 Estudando **Java** na faculdade
-- 🔥 Sempre buscando aprender, evoluir e encarar novos desafios
-- 🎮 Curto muito jogos, desenvolvimento e explorar novas tecnologias
-
----
-
-### 🚀 Tecnologias & Ferramentas Atualmente
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-</p>
-
----
-
-### 🕓 Minha Trajetória
-- 🚀 Atualmente desenvolvendo para **Realidade Virtual** (**Unity** + **C#**) no Hub da FEMA, criando experiências imersivas para **Meta Quest 2**
-- 🎯 Estudei **C++** no começo da faculdade, com conhecimentos básicos e agora em processo de aprofundamento (POO ainda em desenvolvimento)
-- 🔙 Atuei no desenvolvimento backend utilizando Laravel + PHP + MySQL, criando APIs para projetos de estudo, como um blog para jogos e outro para animes
-- 💻 Desenvolvi projetos web acadêmicos utilizando **HTML, CSS e JavaScript**, incluindo:  
-  • 🏛️ Um site institucional para um projeto social
-
----
-
-### 🚀 Tecnologias que já utilizei
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/Laravel-FC494C?style=for-the-badge&logo=laravel&logoColor=white" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-</p>
-
----
-
-### 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavobeitum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobeitum&layout=compact&langs_count=7&theme=tokyonight"/>
+  <h1>Olá, eu sou o Gustavo Beitum! 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Mobile;Desenvolvendo+em+Flutter,+Dart+e+SQLite;Entusiasta+em+Laravel+e+Java;Transformando+ideias+em+código" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 🌐 Onde me encontrar
+### 👨‍💻 Um pouco sobre mim
+<table align="center">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎯 Atuando no <b>Hub de Inovação da FEMA</b> com desenvolvimento de software.</li>
+        <li>📱 Construindo ecossistemas mobile robustos com <b>Flutter, Dart e SQLite</b>.</li>
+        <li>💻 Estruturando APIs e arquiteturas back-end com <b>PHP (Laravel)</b> e <b>Java (Spring Boot)</b>.</li>
+        <li>🔄 Vivência prática com <b>Metodologias Ágeis (Kanban)</b> e engenharia de requisitos.</li>
+        <li>🔥 Sempre buscando aprender, evoluir e encarar novos desafios tecnológicos.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Minha Stack
+
+**Mobile & Front-end** <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>
+</p>
+
+**Back-end, Banco de Dados & Infraestrutura** <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-beitum/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 10px;" />
   </a>
+  <br>
   <a href="mailto:guhenrique.silva04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
 </p>
-
-
-
----
-
-### 🔥 Observação:
-Os projetos em **Laravel**, **HTML**, **CSS** e **JavaScript** foram desenvolvidos como parte de atividades acadêmicas e de formação inicial, e hoje meu foco está direcionado para desenvolvimento de experiências imersivas em **Realidade Virtual**.
-
----
-
-**Em constante evolução e aprendizado.**
