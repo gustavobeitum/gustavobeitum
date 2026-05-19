@@ -1,60 +1,74 @@
 <div align="center">
-  <h1>Olá, eu sou o Gustavo Beitum! 👋</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Mobile;Desenvolvendo+em+Flutter,+Dart+e+SQLite;Entusiasta+em+Laravel+e+Java;Transformando+ideias+em+código" alt="Typing SVG" />
-  </a>
+
+<h1>Olá, eu sou o Gustavo Beitum! 👋</h1>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Mobile;Flutter+%7C+Dart+%7C+SQLite;Laravel+%7C+Java+%7C+Spring+Boot;Transformando+ideias+em+código" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-beitum/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guhenrique.silva04@gmail.com)
+
 </div>
 
 ---
 
-### 👨‍💻 Um pouco sobre mim
-<table align="center">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎯 Atuando no <b>Hub de Inovação da FEMA</b> com desenvolvimento de software.</li>
-        <li>📱 Construindo ecossistemas mobile robustos com <b>Flutter, Dart e SQLite</b>.</li>
-        <li>💻 Estruturando APIs e arquiteturas back-end com <b>PHP (Laravel)</b> e <b>Java (Spring Boot)</b>.</li>
-        <li>🔄 Vivência prática com <b>Metodologias Ágeis (Kanban)</b> e engenharia de requisitos.</li>
-        <li>🔥 Sempre buscando aprender, evoluir e encarar novos desafios tecnológicos.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Programming GIF" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Sobre mim
+
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🎯 Atuando no **Hub Inova da FEMA** com desenvolvimento de software
+- 📱 Construindo ecossistemas mobile com **Flutter, Dart e SQLite** (tecnologias do meu TCC)
+- 💻 APIs e back-end com **PHP (Laravel)** e **Java (Spring Boot)**
+- 🔄 Vivência prática com **Kanban** e engenharia de requisitos
+- 🔥 Sempre buscando aprender e encarar novos desafios tecnológicos
+
+<br clear="right"/>
 
 ---
 
-### 🚀 Minha Stack
+### 🚀 Stack
 
-**Mobile & Front-end** <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>
-</p>
+**Mobile & Front-end**
 
-**Back-end, Banco de Dados & Infraestrutura** <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Back-end, Banco de Dados & Infra**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Ferramentas & Metodologias**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ---
 
-### 🌐 Conecte-se comigo
+### 💡 Inspiração
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-beitum/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 10px;" />
-  </a>
-  <br>
-  <a href="mailto:guhenrique.silva04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=2500&color=7D8590&center=true&vCenter=true&width=700&lines=Código+limpo+não+é+escrito+por+acaso,+é+fruto+de+disciplina.;Todo+bug+é+uma+oportunidade+de+aprender+algo+novo.;A+melhor+forma+de+prever+o+futuro+é+construí-lo.;Primeiro+faça+funcionar,+depois+faça+funcionar+bem.;Simplicidade+é+a+sofisticação+máxima+do+código.;Um+bom+desenvolvedor+nunca+para+de+ser+estudante.;Refatorar+hoje+é+poupar+horas+amanhã.;Código+é+lido+muito+mais+do+que+escrito+—+escreva+com+cuidado.;O+melhor+código+é+aquele+que+não+precisa+de+comentário+para+ser+entendido.;Cada+feature+entregue+é+um+problema+real+resolvido.;Errar+faz+parte+—+o+importante+é+commitar+a+correção.;Programar+é+transformar+lógica+em+impacto." alt="Quote" />
+</div>
+
+---
+
+### 🌐 Conecte-se
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Vamos_nos_conectar!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-beitum/)
+[![Gmail](https://img.shields.io/badge/Me_manda_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guhenrique.silva04@gmail.com)
+
+</div>
