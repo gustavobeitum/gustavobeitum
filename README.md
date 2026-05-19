@@ -23,22 +23,15 @@
 
 ### Sobre Mim
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>Atuando no <b>Hub de Inovação da FEMA</b> com desenvolvimento de software</li>
-        <li>Construindo aplicações mobile offline-first com <b>Flutter, Dart e SQLite</b></li>
-        <li>Estruturando APIs e back-end com <b>PHP (Laravel)</b> e <b>Java (Spring Boot)</b></li>
-        <li>Vivência prática com <b>Kanban</b> e engenharia de requisitos</li>
-        <li>Sempre buscando aprender e encarar novos desafios tecnológicos</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- Atuando no **Hub de Inovação da FEMA** com desenvolvimento de software
+- Construindo ecossistemas mobile com **Flutter, Dart e SQLite**
+- APIs e back-end com **PHP (Laravel)** e **Java (Spring Boot)**
+- Vivência prática com **Kanban** e engenharia de requisitos
+- Sempre buscando aprender e encarar novos desafios tecnológicos
+
+<br clear="right"/>
 
 ---
 
@@ -92,7 +85,7 @@
 ### Inspiração
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=2500&color=7D8590&center=true&vCenter=true&width=700&lines=Código+limpo+não+é+escrito+por+acaso,+é+fruto+de+disciplina.;Todo+bug+é+uma+oportunidade+de+aprender+algo+novo.;A+melhor+forma+de+prever+o+futuro+é+construí-lo.;Primeiro+faça+funcionar,+depois+faça+funcionar+bem.;Simplicidade+é+a+sofisticação+máxima+do+código.;Um+bom+desenvolvedor+nunca+para+de+ser+estudante.;Refatorar+hoje+é+poupar+horas+amanhã.;Código+é+lido+muito+mais+do+que+escrito+—+escreva+com+cuidado.;O+melhor+código+é+aquele+que+não+precisa+de+comentário+para+ser+entendido.;Cada+feature+entregue+é+um+problema+real+resolvido.;Errar+faz+parte+—+o+importante+é+commitar+a+correção.;Programar+é+transformar+lógica+em+impacto." alt="Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=2500&color=C0C5CE&center=true&vCenter=true&width=900&lines=Código+limpo+não+é+escrito+por+acaso,+é+fruto+de+disciplina.;Todo+bug+é+uma+oportunidade+de+aprender+algo+novo.;A+melhor+forma+de+prever+o+futuro+é+construí-lo.;Primeiro+faça+funcionar,+depois+faça+funcionar+bem.;Simplicidade+é+a+sofisticação+máxima+do+código.;Um+bom+desenvolvedor+nunca+para+de+ser+estudante.;Refatorar+hoje+é+poupar+horas+amanhã.;Código+é+lido+muito+mais+do+que+escrito+—+escreva+com+cuidado.;O+melhor+código+é+aquele+que+não+precisa+de+comentário+para+ser+entendido.;Cada+feature+entregue+é+um+problema+real+resolvido.;Errar+faz+parte+—+o+importante+é+commitar+a+correção.;Programar+é+transformar+lógica+em+impacto.;Grandes+sistemas+começam+com+uma+única+linha+de+código.;Consistência+vence+talento+quando+o+talento+não+pratica.;A+tecnologia+muda+rápido,+mas+a+lógica+permanece.;Não+tenha+medo+de+reescrever+o+que+pode+ser+melhorado.;Backend+forte,+frontend+fluido,+experiência+memorável.;Cada+deploy+é+uma+nova+versão+de+você+mesmo.;Quem+aprende+todos+os+dias+nunca+fica+ultrapassado.;Debuggar+também+é+uma+forma+de+investigação.;Automatizar+tarefas+é+ganhar+tempo+para+criar.;A+curiosidade+é+o+combustível+dos+grandes+desenvolvedores.;Nenhum+projeto+grande+nasceu+perfeito.;A+evolução+de+um+dev+acontece+commit+por+commit.;Boas+interfaces+fazem+usuários+sorrirem.;Aprender+uma+nova+stack+é+expandir+possibilidades.;Seu+próximo+projeto+pode+ser+o+que+mudará+sua+carreira." alt="Quote" />
 </div>
 
 ---
