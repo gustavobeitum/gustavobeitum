@@ -25,7 +25,7 @@
 
 <img align="right" width="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- Atuando no **Hub de Inovação da FEMA** com desenvolvimento de software
+- Atuei no **Hub de Inovação da FEMA** com desenvolvimento de software
 - Construindo ecossistemas mobile com **Flutter, Dart e SQLite**
 - APIs e back-end com **PHP (Laravel)** e **Java (Spring Boot)**
 - Vivência prática com **Kanban** e engenharia de requisitos
