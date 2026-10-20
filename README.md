@@ -5,11 +5,11 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=13&duration=1&pause=999999&color=7D8590&background=0D111700&center=true&vCenter=true&width=700&height=30&lines=BACK-END+·+MOBILE+·+FLUTTER+·+LARAVEL+·+SPRING+BOOT" alt="subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=13&duration=1&pause=999999&color=7D8590&background=0D111700&center=true&vCenter=true&width=700&height=30&lines=FULL-STACK+·+MOBILE+·+FLUTTER+·+LARAVEL+·+SPRING+BOOT" alt="subtitle" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=15&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Mobile;Flutter+%7C+Dart+%7C+SQLite;Laravel+%7C+Java+%7C+Spring+Boot;Transformando+ideias+em+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=15&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+%26+Mobile;Flutter+%7C+Dart+%7C+SQLite;Laravel+%7C+Java+%7C+Spring+Boot;React+%7C+Unity+%7C+C%23;Transformando+ideias+em+código" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,13 +25,31 @@
 
 <img align="right" width="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- Atuei no **Hub de Inovação da FEMA** com desenvolvimento de software
-- Construindo ecossistemas mobile com **Flutter, Dart e SQLite**
-- APIs e back-end com **PHP (Laravel)** e **Java (Spring Boot)**
-- Vivência prática com **Kanban** e engenharia de requisitos
-- Sempre buscando aprender e encarar novos desafios tecnológicos
+- Graduando em **Análise e Desenvolvimento de Sistemas** na FEMA (conclusão em dez/2026)
+- Estagiário de desenvolvimento no **Hub Inova FEMA** (2024 - 2026): sistemas web, APIs, apps mobile e aplicações em **Realidade Virtual**
+- **TCC aprovado:** Doce Equilíbrio, app mobile em **Flutter** para apoio ao tratamento do diabetes
+- APIs e back-end com **PHP (Laravel)** e **Java (Spring Boot)**; front-end com **React**
+- Vivência prática com **Scrum, Kanban, XP** e engenharia de requisitos
+- Hoje atuo como Jovem Aprendiz em Geotecnologia na Novamérica Agrícola, usando QGIS, AutoCAD/AgroCAD e Excel
+- **Em busca de uma vaga Júnior ou Trainee** em desenvolvimento Full-Stack ou Mobile
 
 <br clear="right"/>
+
+---
+
+### Projetos em Destaque
+
+- **Doce Equilíbrio (TCC):** aplicativo mobile para gerenciamento do diabetes, com registro de glicemia e refeições, contagem de carboidratos, cálculo de dose de insulina, lembretes, gráficos, estimativa de HbA1c e relatório em PDF. Funciona offline, com SQLite criptografado, arquitetura modular e testes automatizados das regras de cálculo.
+  `Flutter` `Dart` `SQLite` `Figma` `Scrum`
+  <!-- Quando o repositório estiver público: [Ver repositório](https://github.com/gustavobeitum/NOME-DO-REPO) -->
+
+- **[Instituto Brasileiro de Ataxia (IBRA)](https://institutoibra.org):** site institucional para cliente real, com participação desde o levantamento de requisitos até o desenvolvimento e as entregas incrementais.
+
+- **[OneFold](https://onefold.fema.edu.br):** desenvolvimento da API que gera automaticamente o documento de requisitos e os diagramas a partir dos dados cadastrados na plataforma.
+
+- **Aplicações em Realidade Virtual (Meta Quest 2):** 4 projetos em Unity 6 e C#, entre eles quizzes de LGPD, Direito e conhecimentos gerais e um tour virtual por laboratórios da FEMA, usados por alunos, professores e visitantes em eventos.
+
+- **Gerenciamento de fornecedores (Assocana):** além dos cadastros de fornecedores o sistema conta com cálculo de ATR, emissão de relatórios e envio automático do ATR via e-mails.
 
 ---
 
@@ -56,11 +74,21 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+**Realidade Virtual, Jogos & Outras Linguagens**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 **Ferramentas & Metodologias**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Metodologia_Ágil-2196F3?style=flat-square)
 
 ---
 
